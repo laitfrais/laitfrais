@@ -28,20 +28,6 @@ work in progress
       <a href="/source/plugins/community/README.md">🎲 See also community plugins</a>
     </th>
   </tr>
-  <tr>
-    <th><a href="source/plugins/community/16personalities/README.md">🧠 16personalities</a><br><sup>by <a href="https://github.com/lowlighter">@lowlighter</a></sup>
-      <details><summary>Render example</summary>
-        <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.16personalities.svg" alt=""></img>
-        <img width="900" height="1" alt="">
-      </details>
-    </th>
-    <th><a href="source/plugins/community/chess/README.md">♟️ Chess</a><br><sup>by <a href="https://github.com/lowlighter">@lowlighter</a></sup>
-      <details><summary>Render example</summary>
-        <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.chess.svg" alt=""></img>
-        <img width="900" height="1" alt="">
-      </details>
-    </th>
-  </tr>
 </table>
 
 
