@@ -1,16 +1,14 @@
 
 
-[![Continuous integration](https://github.com/lowlighter/metrics/actions/workflows/ci.yml/badge.svg)](https://github.com/lowlighter/metrics/actions/workflows/ci.yml)
 
 work in progress
 
 <table>
   <tr>
-    <th align="center">For user accounts</th>
+    <th align="center">lait_frais</th>
   </tr>
   <tr>
     <th><a href="source/plugins/topics/README.md">📌 Starred topics</a></th>
-    <th><a href="source/plugins/stars/README.md">🌟 Recently starred repositories</a></th>
   </tr>
   <tr>
         <td  align="center">
@@ -18,15 +16,6 @@ work in progress
         <details open><summary>With labels</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.topics.svg" alt=""></img></details>
         <img width="900" height="1" alt="">
       </td>
-        <td  align="center">
-        <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.stars.svg" alt=""></img>
-        <img width="900" height="1" alt="">
-      </td>
-  </tr>
-  <tr>
-    <th colspan="2" align="center">
-      <a href="/source/plugins/community/README.md">🎲 See also community plugins</a>
-    </th>
   </tr>
 </table>
 
