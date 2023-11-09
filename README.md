@@ -14,15 +14,6 @@ work in progress
 </td>
   </tr>
   <tr>
-    <th colspan="2" align="center">
-      <h3><a href="/README.md#-plugins">🧩 Customizable with 46 plugins and 330 options!</a></h3>
-    </th>
-  </tr>
-  <tr>
-    <th><a href="source/plugins/isocalendar/README.md">📅 Isometric commit calendar</a></th>
-    <th><a href="source/plugins/languages/README.md">🈷️ Languages activity</a></th>
-  </tr>
-  <tr>
     <th><a href="source/plugins/stargazers/README.md">✨ Stargazers</a></th>
     <th><a href="source/plugins/lines/README.md">👨‍💻 Lines of code changed</a></th>
   </tr>
@@ -414,11 +405,6 @@ work in progress
   </tr>
 </table>
 
-
-# 📚 Documentation
-
-
-> <sup>*⚠️ This is the documentation of **v3.35-beta** (`@master`/`@main` branches) which includes [unreleased features](https://github.com/lowlighter/metrics/compare/latest...master) planned for next release. See documentation for current released version [**v3.34** (`@latest` branch) here](https://github.com/lowlighter/metrics/blob/latest/README.md).* </sup>
 
 
 
